@@ -1,0 +1,5 @@
+# Xdefaults file by Thrakkar 25.7.2012
+
+# Set default font for URXVT to Terminus
+URxvt*font: -*-terminus-medium-r-*-*-*-*-*-*-*-*-*-*
+URxvt*boldFont: -*-terminus-medium-r-*-*-*-*-*-*-*-*-*-*
